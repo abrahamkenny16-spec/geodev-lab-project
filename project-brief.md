@@ -8,9 +8,7 @@ This research will help the government and individuals know the locations of hea
 
 ## The data i need 
 
-Grid3 health facilities   https://data.grid3.org/datasets/GRID3::grid3-nga-health-facilities-v2-0/about
-
-
+- Grid3 health facilities   https://data.grid3.org/datasets/GRID3::grid3-nga-health-facilities-v2-0/about
 - GRID 3 ward boundaries  https://data.grid3.org/datasets/GRID3::grid3-nga-operational-wards-v1-0/about
 - Diva GIS Boundaries   https://diva-gis.org/data.html
 - OSM roads  https://www.openstreetmap.org/export#map=12/6.4289/3.5661
@@ -18,6 +16,7 @@ Grid3 health facilities   https://data.grid3.org/datasets/GRID3::grid3-nga-healt
 - DIVA GIS ROADS    https://diva-gis.org/data.html
 - GRID 3 population    https://data.grid3.org/maps/6966d625aea0488496d01debd3bb80f9/about
 - DIVA GIS POPULATION  https://diva-gis.org/data.html
+- GRID 3 NGA settlement extents V4.1 https://data.grid3.org/datasets/GRID3::grid3-nga-settlement-extents-v4-1/about
 
 ## What i will build
 A map that regularly update the location of health facilities, population and possible location for new health facilities establishment
