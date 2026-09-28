@@ -35,7 +35,21 @@
 - CURRENCY: most edits are not recent. All hospitals are present
 - POSITIONAL: hospitals align well with satellite imagery, no systematic offset visible
 - ATTRIBUTE: only 80% carry ownership and facility type, so primary health center and primary health clinic can be separated reliably. Also, government and profit can be separated reliably
-- FITNESS: adequate for access analysis in the LGA. 
+- FITNESS: adequate for access analysis in the LGA.
+
+##GRID 3 NGA settlement extents V4.1
+- Source:- GRID 3 NGA settlement extents V4.1 https://data.grid3.org/datasets/GRID3::grid3-nga-settlement-extents-v4-1/about
+- Downloaded: 28/9/2026
+- 5537 features, polygon
+- columns: fid(integer), block_id(text), country(text), iso(text), block_area_sqm(decimal), block_perimeter(decimal), block_neighbor_count(decimal), building_count(integer),block_area_min(decimal), block_area_max(decimal), block_area_sum(decimal), block_area_median(decimal), block_area_stdev(decimal), block_area_percentage(decimal), extent_type(text), mgrs_code(text), ndvi_mean(decimal), evi_mean(decimal), gbuilding_max_height(decimal), gbuilding_mean_height(decimal), blocks_per_settl_extent(decimal), building_count_density_quantile_rank(decimal), building_max_area_quantile_rank(decimal), building_count_density(decimal), bd_class(text), ma_class(text), composite_class(text)
+- No nulls
+- Covers my LGA fully
+- COMPLETENESS: good in the LGA. compared my own street: all settlements are present.
+- CURRENCY: most edits are recent, August 2026. All settlements are present
+- POSITIONAL: settlements align well with satellite imagery; no systematic offset visible
+- ATTRIBUTE: 100% carry ownership and extent type, so built-up area, small settlement area, and hamlet can be separated reliably.
+- FITNESS: adequate for access analysis in the LGA.
+
 
 ##CRS and preparation
 - All source layers arrived in EPSG:4326
