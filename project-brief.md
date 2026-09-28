@@ -1,7 +1,7 @@
 # My project brief 
 
 ## The question
-Which ward settlements in Eti-Osa LGA are more than 5km from a health facility, and expected number per facility?
+Which ward settlements in Eti-Osa LGA are more than 2km from a health facility, and expected number per facility?
 
 ## Why it matters
 This research will help the government and individuals know the locations of health facilities close to them and where to establish new health facilities. It will also help to locate the nearest health facilities in case of emergency
