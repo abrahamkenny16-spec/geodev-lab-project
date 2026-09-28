@@ -10,7 +10,7 @@
 - COMPLETENESS: good and falls in the right places. compared my own LGA: covers the entire area.
 - POSITIONAL: boundaries align well with satellite imagery, no systematic offset visible
 - ATTRIBUTE: 100% carry surface tag, and each LGA can be separated.
-- FITNESS: adequate for analysis purposes. 
+- FITNESS: adequate for analysis purposes.
 
 ##OSM roads, extracted via QuickOSM
 -Query: highway=* within ETI-OSA LGA
