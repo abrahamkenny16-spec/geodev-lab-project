@@ -31,7 +31,7 @@
 - columns: globalid(text), nhfr_uid(integer), nhfr_facil(text), country(text), iso(text), state(text), lga(text), lga_name_d(decimal), ward(text), ward_name_(decimal), facility_n(text), facility_1(text), ownership(text), ownership_(text), facility_1(text), facility_2(text), latitude(decimal), longitude(decimal), geocoordin(text), last_updat(text) 
 - No nulls
 - Covers my LGA fully
-- COMPLETENESS: good in the LGA. compared my own street: not all hospitals are present.
+- COMPLETENESS: good in the LGA. compared my own street: all hospitals are present.
 - CURRENCY: most edits are not recent. All hospitals are present
 - POSITIONAL: hospitals align well with satellite imagery, no systematic offset visible
 - ATTRIBUTE: only 80% carry ownership and facility type, so primary health center and primary health clinic can be separated reliably. Also, government and profit can be separated reliably
