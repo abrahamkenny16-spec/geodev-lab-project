@@ -8,4 +8,4 @@ Please refer to month-1-summary.md for the month a summary
 
 ## Month 2: development environment and early python
 -week 5: set up python, VS Code and the terminal. hello.py runs.
--Week 6: environments and project setup with uv
+-Week 6: set up the project with uv and added pandas. check.py prints the pandas version.
