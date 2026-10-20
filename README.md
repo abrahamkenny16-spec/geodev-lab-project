@@ -10,3 +10,4 @@ Please refer to month-1-summary.md for the month a summary
 -week 5: set up python, VS Code and the terminal. hello.py runs.
 -Week 6: set up the project with uv and added pandas. check.py prints the pandas version.
 -week 7: analyse.py reads ward.csv, converts each area and classifies each ward
+-week 8: inspect_data.py summarizes AREA, lganame and wardname in my Eti-Osa LGA data
