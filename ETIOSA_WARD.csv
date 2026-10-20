@@ -1,0 +1,21 @@
+fid,globalid,uniq_id,timestamp,editor,wardname,wardcode,lganame,lgacode,statename,statecode,amapcode,status,source,urban,AREA
+1,cd0ebf48-8663-48fb-a476-9a9ab540e4de,499379,3/16/2019,oluseye.abraham,Ikoyi 2,LASEOA12,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,1910440.658
+2,ba8a0604-9bf5-4382-bca7-e63b7f573fa1,499443,3/16/2019,oluseye.abraham,Apese / 6 Extension,LASEOA05,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,4879636.697
+3,c06eef35-9920-4ab4-be47-abe48614311a,499458,3/16/2019,oluseye.abraham,Victoria Island,LASEOA20,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,4189692.215
+4,b0f619c1-e9c4-4f48-9d2d-0bf3bfe33923,499459,3/16/2019,oluseye.abraham,Ikoyi 1,LASEOA11,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,6304161.324
+5,e416adc7-e3dd-401e-9c9b-81037b2bc621,500227,3/16/2019,oluseye.abraham,Maroko / Okun Alfa,LASEOA15,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,4250558.235
+6,7d09518e-26a0-4c26-8066-5575edf105b8,500119,3/16/2019,oluseye.abraham,Ikate / Lekki,LASEOA10,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,14734461
+7,b92d4b85-5964-4f94-8130-904056052e83,500136,3/16/2019,oluseye.abraham,Ajiran / Osapa,LASEOA04,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,13619323.78
+8,cdab8ef4-a224-4241-82e7-165524ce9439,500139,3/16/2019,oluseye.abraham,Badore / Langbasa,LASEOA06,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,8840737.247
+9,350b286c-5fd2-4f3c-8d99-5d02b278df71,500147,3/16/2019,oluseye.abraham,Addo / Okeira,LASEOA02,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,9752803.528
+10,4efae4dd-7e9e-4dd6-9039-0bc0c4b1ee0c,500172,3/16/2019,oluseye.abraham,Ajah,LASEOA03,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,13083946.74
+11,4a5c174d-746f-44c2-a487-b9cd97305c75,500218,3/16/2019,oluseye.abraham,Kuramo School / Lekki,LASEOA14,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,966541.335
+12,74eadb96-b9da-46d0-84fe-2db9c1c7ab3d,500220,3/16/2019,oluseye.abraham,Ilasan / Orile,LASEOA13,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,9119968.322
+13,4effbabe-073f-4175-bedf-2b3c22f9b0c0,500223,3/16/2019,oluseye.abraham,Falomo / Oyinkan Abayomi,LASEOA07,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,2936558.848
+14,71663a82-b5e9-40da-a3a5-a83e2f438984,500224,3/16/2019,oluseye.abraham,Ijeh / Dolphin Estate,LASEOA09,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,1990509.823
+15,c6f80d73-1672-4a90-9eb8-2fcbd2368ab5,500225,3/16/2019,oluseye.abraham,Obalende,LASEOA16,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,1306475.729
+16,de6f294a-ac3d-4f65-8084-40eac3d705a5,500226,3/16/2019,oluseye.abraham,Igbo-Efon / Maiyegun,LASEOA08,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,12108430.44
+17,3d865f23-3a54-41ba-8db7-9a2b9f613ced,497795,3/16/2019,oluseye.abraham,Okun Ajah / Okunmopo,LASEOA17,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,No,28777165.2
+18,535a72dd-ba57-436a-82fc-e848b4442f5d,497840,3/16/2019,oluseye.abraham,Sangotedo,LASEOA18,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,Yes,28821569.4
+19,b6ec4e72-0730-4f6c-aede-cd5c452b27e2,497898,3/16/2019,oluseye.abraham,1004 / Aboyade,LASEOA01,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,No,4393138.56
+20,9d75fe2e-be06-4eac-8302-31fd11509a61,499062,3/16/2019,oluseye.abraham,Tarkwa Bay,LASEOA19,Eti Osa,25008,Lagos,LA,Validated,Authorized,INEC,No,5819547.877
