@@ -13,3 +13,4 @@ Please refer to month-1-summary.md for the month a summary
 -week 8: inspect_data.py summarizes AREA, lganame and wardname in my Eti-Osa LGA data
 -week 9: consolidation and refactoring.
 ###Month 2 reflection
+I have been able to learn how to work with the excel file from my dataset for my project and it was very interesting to see my code for analysis the excel run perfectly though i encountered some challenges which i was able to solve.
